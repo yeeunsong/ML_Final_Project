@@ -4,8 +4,8 @@ COSE362 Final Project
 
 ## Description
 Estimating hotel price using phython
-Estimation Algorithm implemented by yeeunsong
-Used only basic libraries of phython such as numpy and pandas
+
+Estimation Algorithm implemented from scratch using python
 
 
 ## Dataset
