@@ -18,4 +18,4 @@ Implement estimation algorithm such as
   2. Polynomial Regression
   3. Normalization methods
   4. Fit/Score methods
- Understand mathemetical theory behind above algorithms
+Understand mathemetical theory behind above algorithms
