@@ -13,9 +13,9 @@ Personalize Expedia Hotel Searches-ICDM 2013 (Kaggle)
 
 
 ## Goals to Achieve
-Code Estimation algorithm such as
+Implement estimation algorithm such as
   1. Linear Regression
   2. Polynomial Regression
   3. Normalization methods
   4. Fit/Score methods
-  5. Understanding mathemetical theory behind Regression models
+ Understand mathemetical theory behind above algorithms
